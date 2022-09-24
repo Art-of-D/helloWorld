@@ -1,0 +1,7 @@
+.gitignore:
+.idea
+ .iws
+ .iml
+ .ipr
+ target
+ .DS_STORE /Users/art_of_d/Java/helloWorld/src/main
